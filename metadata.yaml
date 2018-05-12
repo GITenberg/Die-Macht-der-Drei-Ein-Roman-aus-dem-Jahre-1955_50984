@@ -1,4 +1,8 @@
 _repo: Die-Macht-der-Drei-Ein-Roman-aus-dem-Jahre-1955_50984
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50984-h/images/cover.jpg
 creator:
   author:
     agent_name: Dominik, Hans
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '40803'
     url: http://www.gutenberg.org/2009/agents/40803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50984#Die-Macht-der-Drei-Ein-Roman-aus-dem-Jahre-1955
 gutenberg_issued: '2016-01-20'
 gutenberg_type: Text
 identifiers:
